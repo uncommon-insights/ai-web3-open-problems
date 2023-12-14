@@ -37,3 +37,4 @@
         - multilayer / multichain analysis seem underanalyzed -- how can this be useful? 
 1. New tech / libraries appear all the time -- can we have an entry level code assistant that rapidly adapts?
 
+Indicate your interest [here](https://airtable.com/appTQPxc6Gft5N3kw/shrEzwiekz26RlVrq)
